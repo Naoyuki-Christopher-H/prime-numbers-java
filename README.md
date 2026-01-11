@@ -1,11 +1,32 @@
 # Prime Number Checker
 
-A Java application for checking whether a number is prime, supporting both regular integers and arbitrarily large numbers using BigInteger.
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Project Structure](#project-structure)
+- [Usage](#usage)
+  - [Prerequisites](#prerequisites)
+  - [Running the Application](#running-the-application)
+  - [Using the Application](#using-the-application)
+- [Technical Implementation](#technical-implementation)
+  - [Algorithms](#algorithms)
+  - [Key Methods](#key-methods)
+- [Code Quality Features](#code-quality-features)
+- [Limitations](#limitations)
+- [Repository](#repository)
+- [Contributing](#contributing)
+- [Disclaimer](#disclaimer)
 
 ## Overview
 
-This project provides a console-based application that allows users to check if a number is prime. 
-It efficiently handles both standard integer ranges and very large numbers through optimized algorithms and BigInteger support.
+A Java application for checking whether a number is prime, 
+supporting both regular integers and arbitrarily large numbers 
+using BigInteger.
+
+This project provides a console-based application that allows 
+users to check if a number is prime. It efficiently handles 
+both standard integer ranges and very large numbers through 
+optimized algorithms and BigInteger support.
 
 ## Features
 
@@ -121,8 +142,10 @@ https://github.com/Naoyuki-Christopher-H/prime-numbers-java.git
 
 ## Contributing
 
-If you encounter issues or have improvements to suggest, please submit a pull request or open 
-an issue on the GitHub repository. Do not attempt to fix problems silently outside the project.
+If you encounter issues or have improvements to suggest, 
+please submit a pull request or open an issue on the 
+GitHub repository. Do not attempt to fix problems silently 
+outside the project.
 
 ## DISCLAIMER
 
